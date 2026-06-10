@@ -1,17 +1,23 @@
 <!-- TODO: Add a profile banner image here (e.g., a 1500x500 image representing your style/homelab) -->
 <!-- <img src="link_to_your_banner_image.png" width="100%" alt="Banner" /> -->
 
+<div align="center">
+
 # 👋 Hi there, I'm enonymous1!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enonymous1&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=enonymous1&theme=react&border_radius=10" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enonymous1&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="48%" />
-  <!-- TODO: Set up WakaTime and add WakaTime API Key to repository secrets to enable this -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enonymous1&theme=react&border_radius=10" alt="WakaTime Stats" width="48%" /> -->
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=IT+Manager;Full-Stack+Problem+Solver;Homelab+Enthusiast;Automation+Engineer)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I’m an IT Manager with a strong Computer Science background (AS & BS), specializing in full-stack problem solving, automation, and infrastructure. My journey blends hands-on technical expertise with leadership, enabling teams to deliver innovative solutions and drive technology forward.
+![Profile Views](https://komarev.com/ghpvc/?username=enonymous1&color=blue&style=for-the-badge)
+
+Welcome to my GitHub profile! I'm an IT Manager with a strong Computer Science background (AS & BS), specializing in full-stack problem solving, automation, and infrastructure. My journey blends hands-on technical expertise with leadership, enabling teams to deliver innovative solutions and drive technology forward.
+
+  <img src="https://github-readme-stats.vercel.app/api?username=enonymous1&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=enonymous1&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enonymous1&layout=compact&theme=react&border_radius=10&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- TODO: Set up WakaTime and add WakaTime API Key to repository secrets to enable this -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enonymous1&theme=react&border_radius=10&hide_border=true" alt="WakaTime Stats" width="48%" /> -->
+
+</div>
 
 ---
 
@@ -30,7 +36,7 @@ Welcome to my GitHub profile! I’m an IT Manager with a strong Computer Science
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -53,7 +59,7 @@ Welcome to my GitHub profile! I’m an IT Manager with a strong Computer Science
 
 ### Leadership & Management
 <p align="left">
-  <img src="https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Team_Building-4CAF50?style=for-the-badge&logo=microsoftteams&logoColor=white" />
   <img src="https://img.shields.io/badge/Project_Management-0078D4?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Mentorship-FF4081?style=for-the-badge&logo=hashnode&logoColor=white" />
@@ -66,9 +72,6 @@ Welcome to my GitHub profile! I’m an IT Manager with a strong Computer Science
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[justinlyons.dev](https://justinlyons.dev)** | A digital portfolio static site utilizing automated deployment pipelines. | Flask, GitHub Actions |
-| **[ss-vvm-archiver](#)** | A comprehensive toolkit designed for visual voicemail archival. | Python |
-| **[ss-pre](#)** | Passive DNS and URL inspection utility utilizing asynchronous webpage metadata inspection. | Python, AsyncIO |
-| **[Mobile App Project](#)** | Brief description of a featured mobile application. | Android / iOS |
 
 ---
 
@@ -97,17 +100,16 @@ Welcome to my GitHub profile! I’m an IT Manager with a strong Computer Science
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-*(This space is reserved for a GitHub Action to automatically populate your latest commits, blog posts, or project updates!)*
 <!--END_SECTION:activity-->
 
 ---
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/justinplyons/)
-- [Portfolio](https://justinlyons.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinplyons/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://justinlyons.dev)
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_  
+> _"Code is like humor. When you have to explain it, it's bad."_  
 > — Cory House
