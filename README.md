@@ -1,8 +1,22 @@
+<!-- TODO: Add a profile banner image here (e.g., a 1500x500 image representing your style/homelab) -->
+<!-- <img src="link_to_your_banner_image.png" width="100%" alt="Banner" /> -->
+
 # 👋 Hi there, I'm enonymous1!
 
 <div align="center">
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=enonymous1&theme=react&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enonymous1&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=enonymous1&theme=react&border_radius=10" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enonymous1&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="48%" />
+  <!-- TODO: Set up WakaTime and add WakaTime API Key to repository secrets to enable this -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enonymous1&theme=react&border_radius=10" alt="WakaTime Stats" width="48%" /> -->
 </div>
 
 Welcome to my GitHub profile! I’m an IT Manager with a strong Computer Science background (AS & BS), specializing in full-stack problem solving, automation, and infrastructure. My journey blends hands-on technical expertise with leadership, enabling teams to deliver innovative solutions and drive technology forward.
@@ -20,10 +34,38 @@ Welcome to my GitHub profile! I’m an IT Manager with a strong Computer Science
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** `Python`, `PowerShell`, `Java`, `Kotlin`, `Swift`, `JavaScript`
-- **Automation & Parsing:** `Playwright`, `httpx`, `GitHub Actions`
-- **Infrastructure & Homelab:** `Docker`, `Unraid`, `AWS`, `Firebase`
-- **Leadership & Management:** Team Building, Agile, Project Management, Mentorship
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Automation & Parsing
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTTPX-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+### Infrastructure & Homelab
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unraid-F05022?style=for-the-badge&logo=unraid&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### Leadership & Management
+<p align="left">
+  <img src="https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team_Building-4CAF50?style=for-the-badge&logo=microsoftteams&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project_Management-0078D4?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mentorship-FF4081?style=for-the-badge&logo=hashnode&logoColor=white" />
+</p>
 
 ---
 
@@ -45,6 +87,18 @@ Welcome to my GitHub profile! I’m an IT Manager with a strong Computer Science
   <br>
   Beyond code, I maintain a robust home server environment running <b>Unraid</b> and <b>Docker</b> to handle media, backups, and automation. I'm also heavily involved in functional 3D printing using a <b>Bambu Lab P1S</b> to design parametric models and custom organizers. 
 </details>
+
+---
+
+## 🐍 GitHub Contribution Snake
+<!-- TODO: The snake animation will be generated here by the GitHub Action once pushed -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enonymous1/enonymous1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enonymous1/enonymous1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enonymous1/enonymous1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
