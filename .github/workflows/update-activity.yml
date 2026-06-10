@@ -1,4 +1,4 @@
-name: Update GitHub Activity README
+name: Update README with Recent Activity
 
 on:
   schedule:
@@ -6,20 +6,28 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Update this repo's README with recent activity
+  update-readme:
+    name: Update README with recent activity
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+
+      - name: Run activity updater
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'chore: update README with recent activity'
+          GH_USERNAME: enonymous1
+          TARGET_FILE: README.md
           MAX_LINES: 5
-          FILTER_EVENTS: PushEvent,CreateEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent
+        run: python3 scripts/update_activity.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes, skipping commit." && exit 0
+          git add README.md
+          git commit -m "chore: update README with recent activity"
+          git push
