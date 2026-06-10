@@ -22,3 +22,4 @@ jobs:
         with:
           COMMIT_MSG: 'chore: update README with recent activity'
           MAX_LINES: 5
+          FILTER_EVENTS: PushEvent,CreateEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent
