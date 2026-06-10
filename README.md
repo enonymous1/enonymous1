@@ -1,46 +1,65 @@
 # 👋 Hi there, I'm enonymous1!
 
-Welcome to my GitHub profile! I’m an IT Manager with a strong Computer Science background (AS & BS), specializing in Mobile Application Development. My journey blends hands-on technical expertise with leadership, enabling teams to deliver innovative solutions and drive technology forward.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enonymous1&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enonymous1&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="48%" />
+</div>
+
+Welcome to my GitHub profile! I’m an IT Manager with a strong Computer Science background (AS & BS), specializing in full-stack problem solving, automation, and infrastructure. My journey blends hands-on technical expertise with leadership, enabling teams to deliver innovative solutions and drive technology forward.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 IT Manager passionate about technology and people.
-- 🎓 AS & BS in Computer Science, with a focus on Mobile Application Development.
-- 📱 Enthusiastic about creating impactful mobile experiences.
-- 🌱 Always learning and exploring new tech frontiers.
+- 💼 **IT Manager** passionate about technology, infrastructure, and people.
+- 🎓 AS & BS in Computer Science.
+- 🛠️ Deeply focused on automation, data scraping, and forensic tool development.
+- 🌱 Currently exploring asynchronous environments and webpage metadata inspection.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- Programming Languages: `Java`, `Kotlin`, `Swift`, `Objective-C`, `Python`, `JavaScript`
-- Mobile Development: `Android`, `iOS`, `Flutter`, `React Native`
-- Leadership & Management: Team Building, Agile, Project Management, Mentorship
-- Tools & Platforms: `Git`, `GitHub`, `Jira`, `AWS`, `Docker`, `Firebase`
+- **Languages:** `Python`, `PowerShell`, `Java`, `Kotlin`, `Swift`, `JavaScript`
+- **Automation & Parsing:** `Playwright`, `httpx`, `GitHub Actions`
+- **Infrastructure & Homelab:** `Docker`, `Unraid`, `AWS`, `Firebase`
+- **Leadership & Management:** Team Building, Agile, Project Management, Mentorship
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project        | Description                        | Tech Stack              |
-| -------------- | ---------------------------------- | ----------------------- |
-| [Project One](#) | Brief description of project one.   | Android, Kotlin         |
-| [Project Two](#) | Brief description of project two.   | iOS, Swift              |
-| [Project Three](#) | Brief description of project three. | Flutter, Firebase       |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[justinlyons.dev](https://justinlyons.dev)** | A digital portfolio static site utilizing automated deployment pipelines. | Flask, GitHub Actions |
+| **[ss-vvm-archiver](#)** | A comprehensive toolkit designed for visual voicemail archival. | Python |
+| **[ss-pre](#)** | Passive DNS and URL inspection utility utilizing asynchronous webpage metadata inspection. | Python, AsyncIO |
+| **[Mobile App Project](#)** | Brief description of a featured mobile application. | Android / iOS |
+
+---
+
+## ⚙️ Behind the Scenes
+
+<details>
+  <summary><b>🛠️ Peek under the hood: Homelab & Maker Stack</b></summary>
+  <br>
+  Beyond code, I maintain a robust home server environment running <b>Unraid</b> and <b>Docker</b> to handle media, backups, and automation. I'm also heavily involved in functional 3D printing using a <b>Bambu Lab P1S</b> to design parametric models and custom organizers. 
+</details>
+
+---
+
+## 📡 Recent Activity
+
+<!-- START_SECTION:activity -->
+*(This space is reserved for a GitHub Action to automatically populate your latest commits, blog posts, or project updates!)*
+<!-- END_SECTION:activity -->
 
 ---
 
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/justinplyons/)
-
----
-
-## 💬 Let's Collaborate!
-
-I'm always excited to connect with fellow tech enthusiasts, contribute to open source, or discuss new ideas in mobile and IT leadership. Feel free to reach out if you want to collaborate or just talk tech!
+- [Portfolio](https://justinlyons.dev)
 
 ---
 
