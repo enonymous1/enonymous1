@@ -4,14 +4,6 @@
 # 👋 Hi there, I'm enonymous1!
 
 <div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enonymous1&theme=react&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enonymous1&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=enonymous1&theme=react&border_radius=10" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enonymous1&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="48%" />
