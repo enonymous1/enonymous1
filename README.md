@@ -96,9 +96,9 @@ Welcome to my GitHub profile! I’m an IT Manager with a strong Computer Science
 
 ## 📡 Recent Activity
 
-<!-- START_SECTION:activity -->
+<!--START_SECTION:activity-->
 *(This space is reserved for a GitHub Action to automatically populate your latest commits, blog posts, or project updates!)*
-<!-- END_SECTION:activity -->
+<!--END_SECTION:activity-->
 
 ---
 
