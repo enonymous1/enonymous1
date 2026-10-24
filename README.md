@@ -100,7 +100,9 @@ Welcome to my GitHub profile! I'm an IT Manager with a strong Computer Science b
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- 🌱 Created branch `main` in [`enonymous1/ss-space_marine_master_crafted`](https://github.com/enonymous1/ss-space_marine_master_crafted) — Jun 06, 2026
+- 🚀 Released [`v1.0.0`](https://github.com/enonymous1/voxel-portfolio/releases/tag/v1.0.0) in [`enonymous1/voxel-portfolio`](https://github.com/enonymous1/voxel-portfolio) — Oct 24, 2026
+- 🚀 Released [`v0.11.0`](https://github.com/enonymous1/gas-auditor/releases/tag/v0.11.0) in [`enonymous1/gas-auditor`](https://github.com/enonymous1/gas-auditor) — Oct 24, 2026
+- 🚀 Released [`v0.1.0`](https://github.com/enonymous1/photo-stitcher/releases/tag/v0.1.0) in [`enonymous1/photo-stitcher`](https://github.com/enonymous1/photo-stitcher) — Oct 24, 2026
 <!--END_SECTION:activity-->
 
 ---
