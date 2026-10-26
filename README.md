@@ -25,8 +25,9 @@ Welcome to my GitHub profile! I'm an IT Manager with a strong Computer Science b
 
 - 💼 **IT Manager** passionate about technology, infrastructure, and people.
 - 🎓 AS & BS in Computer Science.
-- 🛠️ Deeply focused on automation, data scraping, and forensic tool development.
-- 🌱 Currently exploring asynchronous environments and webpage metadata inspection.
+- 🛠️ Builds automation and full-stack tools for real operations: pricing and vendor data, message and photo archives, video and market-data pipelines.
+- 🧪 Ships tested, documented tools with CI — not just demos. See the Featured Projects below and [justinlyons.dev](https://justinlyons.dev).
+- 🏠 Runs a homelab stack (Unraid, Docker) for media, backups, and automation, plus functional 3D printing.
 
 ---
 
@@ -40,6 +41,7 @@ Welcome to my GitHub profile! I'm an IT Manager with a strong Computer Science b
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### Automation & Parsing
@@ -71,7 +73,11 @@ Welcome to my GitHub profile! I'm an IT Manager with a strong Computer Science b
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[justinlyons.dev](https://justinlyons.dev)** | A digital portfolio static site utilizing automated deployment pipelines. | Flask, GitHub Actions |
+| **[justinlyons.dev](https://justinlyons.dev)** | My portfolio site: Flask + Frozen-Flask static site, deployed by GitHub Actions on every push. | Flask, Tailwind CSS, GitHub Actions |
+| **[repo-sync](https://github.com/enonymous1/repo-sync)** | You have dozens of repos on GitHub and dozens of folders on disk. repo-sync tells you which is which. | Python, GitHub API, CSV |
+| **[gas-auditor](https://github.com/enonymous1/gas-auditor)** | Google hides some of your scripts from Drive. This finds them anyway — an inventory and audit tool for Google Apps Script projects. | Python, Flask, Google APIs |
+| **[photo-stitcher](https://github.com/enonymous1/photo-stitcher)** | FastFoto scan review wizard: pick the best front, stitch the back, rotate losslessly, organize finished groups. | Python, PyQt6, Pillow |
+| **[sms-toolkit](https://github.com/enonymous1/sms-toolkit)** | Your backup app copies everything, every day. This keeps only what's new — deduplicated SMS/MMS archives. | Python, Flask, SQLite, OCR |
 
 ---
 
