@@ -1,4 +1,4 @@
-<!-- DRAFT v2 — review copy only. Nothing here has been pushed. The Recent Activity markers below are copied unchanged so the activity updater keeps working. -->
+<!-- DRAFT v2 — review copy only. Nothing here has been pushed. To use it: copy this file over README.md in enonymous1/enonymous1, commit, and push. The Recent Activity markers below are copied unchanged so the activity updater keeps working. -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Justin%20Lyons&fontSize=70&fontColor=ffffff" width="100%" alt="Justin Lyons" />
 
