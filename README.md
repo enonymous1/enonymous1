@@ -121,11 +121,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
+- 🌱 Created branch `main` in [`enonymous1/nmap-scan`](https://github.com/enonymous1/nmap-scan) — Oct 28, 2026
 - 📦 Pushed 0 commits to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Oct 28, 2026
-- 🌱 Created branch `main` in [`enonymous1/excel-report-maker`](https://github.com/enonymous1/excel-report-maker) — Oct 27, 2026
-- 🌱 Created branch `main` in [`enonymous1/remnant2-save-toolkit`](https://github.com/enonymous1/remnant2-save-toolkit) — Oct 27, 2026
-- 🌱 Created branch `main` in [`enonymous1/epic-free-games-tracker`](https://github.com/enonymous1/epic-free-games-tracker) — Oct 27, 2026
-- 📦 Pushed 0 commits to [`enonymous1/gsa-vendor-toolkit`](https://github.com/enonymous1/gsa-vendor-toolkit) on `main` — Oct 27, 2026
+- 🌱 Created branch `main` in [`enonymous1/gmail-sender-insights`](https://github.com/enonymous1/gmail-sender-insights) — Oct 28, 2026
+- 📦 Pushed 0 commits to [`enonymous1/pdf-toolkit`](https://github.com/enonymous1/pdf-toolkit) on `main` — Oct 28, 2026
+- 🌱 Created branch `main` in [`enonymous1/spaces-web-app`](https://github.com/enonymous1/spaces-web-app) — Oct 28, 2026
 <!--END_SECTION:activity-->
 
 ---
