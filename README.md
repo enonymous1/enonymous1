@@ -1,5 +1,3 @@
-<!-- DRAFT v2 — review copy only. Nothing here has been pushed. To use it: copy this file over README.md in enonymous1/enonymous1, commit, and push. The Recent Activity markers below are copied unchanged so the activity updater keeps working. -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Justin%20Lyons&fontSize=70&fontColor=ffffff" width="100%" alt="Justin Lyons" />
 
 <div align="center">
@@ -16,7 +14,6 @@ IT Manager with an AS & BS in Computer Science (Full Sail). I blend hands-on eng
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-justinlyons.dev-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://justinlyons.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justinplyons-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinplyons/)
-
 
 </div>
 
@@ -86,21 +83,38 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 ---
 
-## ⚙️ Behind the Scenes: Homelab & Maker Stack
+## 📈 This month in code
 
-Beyond code, I maintain a home server environment running **Unraid** and **Docker** for media, backups, and automation. I'm also heavily involved in functional 3D printing using a **Bambu Lab P1S** to design parametric models and custom organizers — see **[openscad-toolkit](https://github.com/enonymous1/openscad-toolkit)** for the calibration prints and the sliding-lid box that actually fits.
+As of Oct 29, 2026: **62 public repos** · **11 primary languages** · **61 updated in the last 30 days** · **81 public events in the last 30 days**. Language shares below are share of public repos with a detected primary language, not share of code.
+
+<!-- NOTE: profileforge sync-stats renders inline SVG + styled HTML bars, which GitHub strips from READMEs. Do not run sync-stats on this file until its renderer is changed to this plain-text format. -->
+<!--START_SECTION:stats-->
+```
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▁▁
+Sep 30 - Oct 29, 2026 · 81 public events · busiest day Oct 26 (46)
+```
+
+#### Top languages
+
+```
+Python      ██████████ 50%  30 repos
+Kotlin      ████       18%  11 repos
+Swift       ██          8%   5 repos
+JavaScript  █           7%   4 repos
+C++         █           3%   2 repos
+CSS         █           3%   2 repos
+TypeScript  █           3%   2 repos
+C#          █           2%   1 repo
+```
+<!--END_SECTION:stats-->
+
+<sub>Plain-text bars and sparkline, generated from the GitHub API on Oct 29, 2026 — no third-party image service, and nothing GitHub's sanitizer strips. The section inside the markers is a hand-written snapshot; refresh it by re-running the counts, not with <code>sync-stats</code> as currently written.</sub>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## ⚙️ Behind the Scenes: Homelab & Maker Stack
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enonymous1/enonymous1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enonymous1/enonymous1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enonymous1/enonymous1/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+Beyond code, I maintain a home server environment running **Unraid** and **Docker** for media, backups, and automation. I'm also heavily involved in functional 3D printing using a **Bambu Lab P1S** to design parametric models and custom organizers — see **[openscad-toolkit](https://github.com/enonymous1/openscad-toolkit)** for the calibration prints and the sliding-lid box that actually fits.
 
 ---
 
