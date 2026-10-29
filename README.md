@@ -89,25 +89,27 @@ As of Oct 29, 2026: **61 public repos counted** (the one fork, MagiskOnWSA, excl
 
 <!-- NOTE: profileforge sync-stats renders inline SVG + styled HTML bars, which GitHub strips from READMEs. Do not run sync-stats on this file until its renderer is changed to this plain-text format. -->
 <!--START_SECTION:stats-->
+As of Oct 29, 2026: **63 public repos counted** (1 fork excluded) · **5,468,811 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
+
 ```
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▁▁
-Sep 30 - Oct 29, 2026 · 81 public events · busiest day Oct 26 (46)
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▄▁
+Sep 30 - Oct 29, 2026 · 99 public events · busiest day Oct 26 (46)
 ```
 
 #### Top languages
 
 ```
-Python      ████████████         61.9%  3,389,611 bytes · 34 repos
-JavaScript  ██                    9.6%  527,963 bytes · 10 repos
-Kotlin      ██                    7.9%  431,793 bytes · 11 repos
-HTML        █                     4.5%  249,015 bytes · 14 repos
-Swift       █                     3.4%  185,544 bytes · 6 repos
-CSS         █                     3.2%  176,483 bytes · 8 repos
-PowerShell  █                     3.0%  164,948 bytes · 3 repos
-XML         █                     2.9%  160,777 bytes · 12 repos
-TypeScript  █                     1.5%  81,877 bytes · 2 repos
+Python      █████████████        66.1%  3,614,402 bytes · 36 repos
+JavaScript  ██                    9.7%  532,668 bytes · 10 repos
+Kotlin      █                     7.3%  400,969 bytes · 11 repos
+HTML        █                     4.5%  244,109 bytes · 12 repos
+PowerShell  █                     3.1%  169,053 bytes · 3 repos
+CSS         █                     2.9%  158,664 bytes · 9 repos
+Swift       █                     2.9%  156,034 bytes · 5 repos
+TypeScript  █                     1.5%  80,127 bytes · 2 repos
 Svelte      █                     0.6%  34,583 bytes · 1 repo
-Other       █                     1.3%  72,784 bytes · 6 repos
+C#          █                     0.5%  30,036 bytes · 1 repo
+Other       █                     0.9%  48,166 bytes · 9 repos
 ```
 <!--END_SECTION:stats-->
 
@@ -124,11 +126,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- 📦 Pushed 0 commits to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Oct 28, 2026
-- 🌱 Created branch `main` in [`enonymous1/excel-report-maker`](https://github.com/enonymous1/excel-report-maker) — Oct 27, 2026
-- 🌱 Created branch `main` in [`enonymous1/remnant2-save-toolkit`](https://github.com/enonymous1/remnant2-save-toolkit) — Oct 27, 2026
-- 🌱 Created branch `main` in [`enonymous1/epic-free-games-tracker`](https://github.com/enonymous1/epic-free-games-tracker) — Oct 27, 2026
-- 📦 Pushed 0 commits to [`enonymous1/gsa-vendor-toolkit`](https://github.com/enonymous1/gsa-vendor-toolkit) on `main` — Oct 27, 2026
+- 📦 Pushed to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Oct 28, 2026
+- 🌱 Created branch `main` in [`enonymous1/ngo-eval-webapp`](https://github.com/enonymous1/ngo-eval-webapp) — Oct 28, 2026
+- 🌱 Created branch `main` in [`enonymous1/gsa-mas-checklist-webapp`](https://github.com/enonymous1/gsa-mas-checklist-webapp) — Oct 28, 2026
+- 🌱 Created branch `main` in [`enonymous1/floorplan-studio`](https://github.com/enonymous1/floorplan-studio) — Oct 28, 2026
+- 📦 Pushed to [`enonymous1/gmail-forensic-toolkit`](https://github.com/enonymous1/gmail-forensic-toolkit) on `main` — Oct 28, 2026
 <!--END_SECTION:activity-->
 
 ---
