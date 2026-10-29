@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Justin%20Lyons&fontSize=70&fontColor=ffffff" width="100%" alt="Justin Lyons" />
+<img src="header.gif" width="100%" alt="Justin Lyons" />
 
 <div align="center">
 
@@ -85,7 +85,7 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 ## 📈 This month in code
 
-As of Oct 29, 2026: **62 public repos** · **11 primary languages** · **61 updated in the last 30 days** · **81 public events in the last 30 days**. Language shares below are share of public repos with a detected primary language, not share of code.
+As of Oct 29, 2026: **61 public repos counted** (the one fork, MagiskOnWSA, excluded) · **5,475,378 bytes of code** · **150,017 lines** across **16 languages**. Shares below are share of code by bytes — not share of repos.
 
 <!-- NOTE: profileforge sync-stats renders inline SVG + styled HTML bars, which GitHub strips from READMEs. Do not run sync-stats on this file until its renderer is changed to this plain-text format. -->
 <!--START_SECTION:stats-->
@@ -97,18 +97,21 @@ Sep 30 - Oct 29, 2026 · 81 public events · busiest day Oct 26 (46)
 #### Top languages
 
 ```
-Python      ██████████ 50%  30 repos
-Kotlin      ████       18%  11 repos
-Swift       ██          8%   5 repos
-JavaScript  █           7%   4 repos
-C++         █           3%   2 repos
-CSS         █           3%   2 repos
-TypeScript  █           3%   2 repos
-C#          █           2%   1 repo
+Python      ████████████         61.9%  3,389,611 bytes · 34 repos
+JavaScript  ██                    9.6%  527,963 bytes · 10 repos
+Kotlin      ██                    7.9%  431,793 bytes · 11 repos
+HTML        █                     4.5%  249,015 bytes · 14 repos
+Swift       █                     3.4%  185,544 bytes · 6 repos
+CSS         █                     3.2%  176,483 bytes · 8 repos
+PowerShell  █                     3.0%  164,948 bytes · 3 repos
+XML         █                     2.9%  160,777 bytes · 12 repos
+TypeScript  █                     1.5%  81,877 bytes · 2 repos
+Svelte      █                     0.6%  34,583 bytes · 1 repo
+Other       █                     1.3%  72,784 bytes · 6 repos
 ```
 <!--END_SECTION:stats-->
 
-<sub>Plain-text bars and sparkline, generated from the GitHub API on Oct 29, 2026 — no third-party image service, and nothing GitHub's sanitizer strips. The section inside the markers is a hand-written snapshot; refresh it by re-running the counts, not with <code>sync-stats</code> as currently written.</sub>
+<sub>Counted from shallow clones of all 61 public non-fork repos on Oct 29, 2026: code files only — docs, data/config, images, and lockfiles excluded; full per-repo totals in <code>code-share.json</code>. Cross-checked against GitHub's own language-bytes API for 5 repos: exact for 3, within 9% for jpl-dev (generated CSS) and 2% for voxel-portfolio. For contrast, by primary-language repo count: Python 30 repos, Kotlin 11, Swift 5, JavaScript 4 (of 60 repos with a detected primary language).</sub>
 
 ---
 
@@ -121,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- 🌱 Created branch `main` in [`enonymous1/nmap-scan`](https://github.com/enonymous1/nmap-scan) — Oct 28, 2026
 - 📦 Pushed 0 commits to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Oct 28, 2026
-- 🌱 Created branch `main` in [`enonymous1/gmail-sender-insights`](https://github.com/enonymous1/gmail-sender-insights) — Oct 28, 2026
-- 📦 Pushed 0 commits to [`enonymous1/pdf-toolkit`](https://github.com/enonymous1/pdf-toolkit) on `main` — Oct 28, 2026
-- 🌱 Created branch `main` in [`enonymous1/spaces-web-app`](https://github.com/enonymous1/spaces-web-app) — Oct 28, 2026
+- 🌱 Created branch `main` in [`enonymous1/excel-report-maker`](https://github.com/enonymous1/excel-report-maker) — Oct 27, 2026
+- 🌱 Created branch `main` in [`enonymous1/remnant2-save-toolkit`](https://github.com/enonymous1/remnant2-save-toolkit) — Oct 27, 2026
+- 🌱 Created branch `main` in [`enonymous1/epic-free-games-tracker`](https://github.com/enonymous1/epic-free-games-tracker) — Oct 27, 2026
+- 📦 Pushed 0 commits to [`enonymous1/gsa-vendor-toolkit`](https://github.com/enonymous1/gsa-vendor-toolkit) on `main` — Oct 27, 2026
 <!--END_SECTION:activity-->
 
 ---
