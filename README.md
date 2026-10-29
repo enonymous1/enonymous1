@@ -17,13 +17,6 @@ IT Manager with an AS & BS in Computer Science (Full Sail). I blend hands-on eng
 [![Portfolio](https://img.shields.io/badge/Portfolio-justinlyons.dev-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://justinlyons.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justinplyons-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinplyons/)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=enonymous1&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=enonymous1&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enonymous1&layout=compact&langs_count=8&theme=react&border_radius=10&hide_border=true" alt="Top Languages" width="60%" />
-</p>
 
 </div>
 
