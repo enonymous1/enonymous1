@@ -85,9 +85,7 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 ## 📈 This month in code
 
-As of Oct 29, 2026: **61 public repos counted** (the one fork, MagiskOnWSA, excluded) · **5,475,378 bytes of code** · **150,017 lines** across **16 languages**. Shares below are share of code by bytes — not share of repos.
 
-<!-- NOTE: profileforge sync-stats renders inline SVG + styled HTML bars, which GitHub strips from READMEs. Do not run sync-stats on this file until its renderer is changed to this plain-text format. -->
 <!--START_SECTION:stats-->
 As of Oct 29, 2026: **63 public repos counted** (1 fork excluded) · **5,468,811 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
 
@@ -113,7 +111,7 @@ Other       █                     0.9%  48,166 bytes · 9 repos
 ```
 <!--END_SECTION:stats-->
 
-<sub>Counted from shallow clones of all 61 public non-fork repos on Oct 29, 2026: code files only — docs, data/config, images, and lockfiles excluded; full per-repo totals in <code>code-share.json</code>. Cross-checked against GitHub's own language-bytes API for 5 repos: exact for 3, within 9% for jpl-dev (generated CSS) and 2% for voxel-portfolio. For contrast, by primary-language repo count: Python 30 repos, Kotlin 11, Swift 5, JavaScript 4 (of 60 repos with a detected primary language).</sub>
+<sub>Generated daily from GitHub's language-bytes API across all public non-fork repos. The Oct 29, 2026 clone audit (code files only, 5,475,378 bytes / 150,017 lines) cross-checked exact for 3 of 5 sampled repos, within 9% for jpl-dev (generated CSS) and 2% for voxel-portfolio. For contrast, by primary-language repo count: Python 30 repos, Kotlin 11, Swift 5, JavaScript 4 (of 60 repos with a detected primary language).</sub>
 
 ---
 
