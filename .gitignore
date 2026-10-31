@@ -11,3 +11,7 @@ Desktop.ini
 
 # GitHub Actions local overrides
 act/
+
+# Python artifacts
+__pycache__/
+.pytest_cache/

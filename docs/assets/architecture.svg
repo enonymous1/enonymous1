@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Architecture diagram: profileforge is the sole updater of the profile README">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#57606a"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="520" fill="#ffffff"/>
+  <text x="600" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="700" fill="#24292f">How this profile stays up to date</text>
+  <text x="600" y="62" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#57606a">One writer, one file. profileforge updates; this repo houses the content.</text>
+
+  <!-- profileforge: the sole updater -->
+  <rect x="40" y="100" width="340" height="110" rx="10" fill="#ddf4ff" stroke="#0969da" stroke-width="2"/>
+  <text x="210" y="134" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="700" fill="#24292f">profileforge (separate repo)</text>
+  <text x="210" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#57606a">Refresh workflow, daily 04:17 UTC</text>
+  <text x="210" y="184" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#57606a">sync-activity + sync-stats · PROFILE_PAT</text>
+
+  <rect x="40" y="260" width="340" height="80" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="2"/>
+  <text x="210" y="292" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="700" fill="#24292f">Commits as github-actions[bot]</text>
+  <text x="210" y="316" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#57606a">“chore: refresh profile data [skip ci]”</text>
+
+  <line x1="210" y1="210" x2="210" y2="260" stroke="#57606a" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- README target -->
+  <rect x="500" y="140" width="360" height="150" rx="10" fill="#24292f"/>
+  <text x="680" y="180" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="#ffffff">enonymous1 / README.md</text>
+  <text x="680" y="210" text-anchor="middle" font-family="monospace" font-size="15" fill="#e6edf3">START_SECTION:activity</text>
+  <text x="680" y="234" text-anchor="middle" font-family="monospace" font-size="15" fill="#e6edf3">START_SECTION:stats</text>
+  <text x="680" y="262" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#e6edf3">profile text + header.gif (content)</text>
+
+  <line x1="380" y1="215" x2="500" y2="215" stroke="#0969da" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Content housed here -->
+  <rect x="940" y="140" width="220" height="150" rx="10" fill="#ffffff" stroke="#57606a" stroke-width="2"/>
+  <text x="1050" y="180" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="700" fill="#24292f">Housed here</text>
+  <text x="1050" y="208" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#57606a">profile text</text>
+  <text x="1050" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#57606a">header.gif</text>
+  <text x="1050" y="256" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#57606a">build_header.py</text>
+
+  <line x1="860" y1="215" x2="940" y2="215" stroke="#57606a" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Deleted writer callout -->
+  <rect x="40" y="380" width="1120" height="56" rx="10" fill="#ffebe9" stroke="#cf222e" stroke-width="2"/>
+  <text x="600" y="414" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#24292f">Deleted, not fixed: the in-repo activity updater + workflow. A second writer with its own schedule and format is how “Pushed 0 commits” kept coming back.</text>
+
+  <rect x="40" y="452" width="1120" height="48" rx="10" fill="#dafbe1" stroke="#1a7f37" stroke-width="2"/>
+  <text x="600" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#24292f">Rule: updater changes go in profileforge. This repo never gains a workflow or updater script again.</text>
+</svg>

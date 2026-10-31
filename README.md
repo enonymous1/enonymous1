@@ -111,7 +111,7 @@ Other       █                     0.8%  61,076 bytes · 10 repos
 ```
 <!--END_SECTION:stats-->
 
-<sub>Generated daily from GitHub's language-bytes API across all public non-fork repos. The Oct 29, 2026 clone audit (code files only, 5,475,378 bytes / 150,017 lines) cross-checked exact for 3 of 5 sampled repos, within 9% for jpl-dev (generated CSS) and 2% for voxel-portfolio. For contrast, by primary-language repo count: Python 30 repos, Kotlin 11, Swift 5, JavaScript 4 (of 60 repos with a detected primary language).</sub>
+<sub>Stats are refreshed by automation (see “About this repository” below). The Oct 29, 2026 clone audit (code files only, 5,475,378 bytes / 150,017 lines) cross-checked exact for 3 of 5 sampled repos, within 9% for jpl-dev (generated CSS) and 2% for voxel-portfolio; method and the Oct 31 live-API note are in docs/REVIEW.md.</sub>
 
 ---
 
@@ -139,6 +139,116 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://justinlyons.dev)
 
 ---
+
+---
+
+## 🛠️ About this repository
+
+This section is for maintainers of the repo. Everything above it is the
+profile page itself; everything here is how that page is built and kept
+up to date.
+
+<!-- TODO (real capture, not a placeholder): drop docs/assets/profile-render.png
+     here — a screenshot of https://github.com/enonymous1 showing the rendered
+     profile top (header GIF + About + Featured Projects). -->
+
+### Description
+
+This is a GitHub special repository: a repo named `enonymous1` whose
+`README.md` on `main` renders as the profile page at
+https://github.com/enonymous1. The README is the product.
+
+Separation of concerns, stated plainly because getting it wrong caused
+real bugs: **profileforge is the updater, this repo houses the
+content.** profileforge (separate repo, `enonymous1/profileforge`)
+runs its Refresh workflow daily at 04:17 UTC, syncs both generated
+sections — Recent Activity and “This month in code” — into their
+`<!--START_SECTION:…-->` markers, and commits as
+`github-actions[bot]` with `[skip ci]`. This repo deliberately
+contains no updater script and no workflow: an earlier in-repo
+activity updater ran on a different schedule with a different output
+format (“Pushed 0 commits” vs profileforge's “Pushed to”), and the
+two writers kept overwriting each other. It was deleted, not fixed,
+for exactly that reason. Do not re-add an updater here; fix the
+updater in profileforge instead.
+
+The animated header at the top, `header.gif`, is a content asset, so
+its generator does live here: see `scripts/build_header.py`. The
+stats and activity sections are profileforge-owned — do not hand-edit
+inside their markers, or the next refresh run will overwrite your
+edit.
+
+### Prerequisites
+
+- A GitHub account, and `git` on your machine, for cloning and pushing.
+- Python 3.10 or newer, only if you want to regenerate the header
+  GIF locally. The header generator uses the standard library plus
+  Pillow. There is no other code in this repo to install or run.
+- No token is required to read this repo. Updating the generated
+  sections is profileforge's job and uses its own `PROFILE_PAT`
+  secret in the profileforge repo, not anything in this repo.
+
+### Installation
+
+```powershell
+git clone https://github.com/enonymous1/enonymous1.git
+cd enonymous1
+```
+
+That is the whole install. There is no build step, no package, and no
+server. If you only want to edit the profile text, edit `README.md`
+directly; if you want to change what the automations write, change
+profileforge, not this repo.
+
+### Local Development
+
+Edit profile text in `README.md` and preview it in a Markdown viewer
+or on a branch. Regenerate the animated header after any change to
+its design:
+
+```powershell
+python scripts/build_header.py
+```
+
+That writes `header.gif` in the repo root. Commit the GIF, not just
+the script: GitHub renders the committed file, and the script alone
+does not reproduce it on the profile page.
+
+To preview an updater change, run profileforge locally against a
+copy (see the profileforge README for its exact flags — the
+`--dry-run` previews exist for exactly this), never by adding a
+workflow to this repo. To check what the refresh last did, look at
+the profileforge repo's Actions runs and at the `chore: refresh
+profile data [skip ci]` commits here, which land shortly after
+04:17 UTC when the daily run succeeds.
+
+### Deployment
+
+Deployment is a push to `main`. There is no separate hosting step:
+GitHub renders the profile from `main` within minutes of the push.
+
+```powershell
+git add README.md header.gif
+git commit -m "docs: describe the change"
+git push
+```
+
+If the push is rejected as non-fast-forward, the refresh moved first
+(a daily profileforge commit). Do not force-push: `git fetch origin`,
+then `git pull --rebase origin main` and resolve in favour of the
+refresh's newer generated lines, or rebuild your change on top of
+the fresh remote README.
+
+![How this profile stays up to date](docs/assets/architecture.svg)
+
+Verify after pushing: open https://github.com/enonymous1 and confirm
+the header animates, the stats section shows the latest snapshot, and
+the activity lines look sane. Generated sections refresh on
+profileforge's daily schedule, not on push — if activity looks stale,
+check profileforge's Actions or dispatch its Refresh workflow there.
+Rollback is a normal revert: `git revert <commit>` and push again —
+nothing here is destructive, because every generated section can be
+regenerated by the next refresh run.
 
 > _"Code is like humor. When you have to explain it, it's bad."_  
 > — Cory House
