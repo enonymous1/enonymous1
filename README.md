@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- 📦 Pushed 0 commits to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Oct 28, 2026
-- 🌱 Created branch `main` in [`enonymous1/android-contacts`](https://github.com/enonymous1/android-contacts) — Oct 29, 2026
-- 🌱 Created branch `main` in [`enonymous1/stig-registry-toolkit`](https://github.com/enonymous1/stig-registry-toolkit) — Oct 28, 2026
-- 🌱 Created branch `main` in [`enonymous1/android-faux-crud`](https://github.com/enonymous1/android-faux-crud) — Oct 29, 2026
-- 📦 Pushed 0 commits to [`enonymous1/google_maps_poi`](https://github.com/enonymous1/google_maps_poi) on `main` — Oct 29, 2026
+- 📦 Pushed 0 commits to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Oct 29, 2026
+- 🔀 Merged PR [a pull request](https://github.com/skybrush-io/skybrush-server) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Oct 30, 2026
+- 🔀 Opened PR [a pull request](https://github.com/skybrush-io/skybrush-server) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Oct 30, 2026
+- 🐛 Opened issue [Virtual UAV stuck in LANDING after a show ends, never flips to LANDED](https://github.com/skybrush-io/skybrush-server/issues/45) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Oct 30, 2026
+- 🍴 Forked [`enonymous1/skybrush-server`](https://github.com/enonymous1/skybrush-server) — Oct 30, 2026
 <!--END_SECTION:activity-->
 
 ---
