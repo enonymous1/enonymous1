@@ -87,27 +87,27 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Oct 30, 2026: **66 public repos counted** (1 fork excluded) · **5,566,429 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
+As of Oct 31, 2026: **74 public repos counted** (2 forks excluded) · **7,551,534 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▅▂▁
-Oct 01 - Oct 30, 2026 · 112 public events · busiest day Oct 26 (46)
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▅▃▂▁
+Oct 02 - Oct 31, 2026 · 128 public events · busiest day Oct 26 (46)
 ```
 
 #### Top languages
 
 ```
-Python      █████████████        65.0%  3,620,075 bytes · 36 repos
-JavaScript  ██                    9.6%  535,506 bytes · 10 repos
-Kotlin      ██                    7.5%  420,217 bytes · 12 repos
-HTML        █                     4.4%  246,571 bytes · 12 repos
-PowerShell  █                     3.0%  169,053 bytes · 3 repos
-CSS         █                     2.9%  161,441 bytes · 9 repos
-Swift       █                     2.8%  156,075 bytes · 5 repos
-C#          █                     1.7%  94,615 bytes · 3 repos
-TypeScript  █                     1.4%  80,127 bytes · 2 repos
-Svelte      █                     0.6%  34,583 bytes · 1 repo
-Other       █                     0.9%  48,166 bytes · 9 repos
+Python      ██████████           50.2%  3,792,367 bytes · 40 repos
+JavaScript  ██████               28.3%  2,136,461 bytes · 14 repos
+Kotlin      █                     7.3%  554,218 bytes · 14 repos
+HTML        █                     3.6%  270,079 bytes · 16 repos
+PowerShell  █                     2.5%  189,257 bytes · 4 repos
+CSS         █                     2.3%  175,426 bytes · 12 repos
+Swift       █                     2.1%  157,555 bytes · 5 repos
+C#          █                     1.3%  100,385 bytes · 3 repos
+TypeScript  █                     1.1%  80,127 bytes · 2 repos
+Svelte      █                     0.5%  34,583 bytes · 1 repo
+Other       █                     0.8%  61,076 bytes · 10 repos
 ```
 <!--END_SECTION:stats-->
 
@@ -124,7 +124,7 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- 📦 Pushed 0 commits to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Oct 29, 2026
+- 📦 Pushed to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Oct 29, 2026
 - 🔀 Merged PR [a pull request](https://github.com/skybrush-io/skybrush-server) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Oct 30, 2026
 - 🔀 Opened PR [a pull request](https://github.com/skybrush-io/skybrush-server) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Oct 30, 2026
 - 🐛 Opened issue [Virtual UAV stuck in LANDING after a show ends, never flips to LANDED](https://github.com/skybrush-io/skybrush-server/issues/45) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Oct 30, 2026
