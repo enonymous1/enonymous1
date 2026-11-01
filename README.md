@@ -87,27 +87,27 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Oct 31, 2026: **74 public repos counted** (2 forks excluded) · **7,551,534 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 01, 2026: **76 public repos counted** (2 forks excluded) · **8,182,816 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▅▃▂▁
-Oct 02 - Oct 31, 2026 · 128 public events · busiest day Oct 26 (46)
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▅▆▄▁▁
+Oct 03 - Nov 01, 2026 · 161 public events · busiest day Oct 26 (46)
 ```
 
 #### Top languages
 
 ```
-Python      ██████████           50.2%  3,792,367 bytes · 40 repos
-JavaScript  ██████               28.3%  2,136,461 bytes · 14 repos
-Kotlin      █                     7.3%  554,218 bytes · 14 repos
-HTML        █                     3.6%  270,079 bytes · 16 repos
-PowerShell  █                     2.5%  189,257 bytes · 4 repos
-CSS         █                     2.3%  175,426 bytes · 12 repos
-Swift       █                     2.1%  157,555 bytes · 5 repos
-C#          █                     1.3%  100,385 bytes · 3 repos
-TypeScript  █                     1.1%  80,127 bytes · 2 repos
-Svelte      █                     0.5%  34,583 bytes · 1 repo
-Other       █                     0.8%  61,076 bytes · 10 repos
+Python      ██████████           52.3%  4,275,698 bytes · 42 repos
+JavaScript  ██████               27.6%  2,259,460 bytes · 15 repos
+Kotlin      █                     6.8%  554,218 bytes · 14 repos
+HTML        █                     3.3%  269,866 bytes · 19 repos
+PowerShell  █                     2.6%  215,824 bytes · 4 repos
+Swift       █                     1.9%  157,555 bytes · 5 repos
+CSS         █                     1.7%  135,256 bytes · 15 repos
+C#          █                     1.5%  124,239 bytes · 3 repos
+TypeScript  █                     1.0%  80,127 bytes · 2 repos
+C++         █                     0.5%  40,183 bytes · 2 repos
+Other       █                     0.9%  70,390 bytes · 11 repos
 ```
 <!--END_SECTION:stats-->
 
@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- 📦 Pushed to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Oct 29, 2026
-- 🔀 Merged PR [a pull request](https://github.com/skybrush-io/skybrush-server) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Oct 30, 2026
-- 🔀 Opened PR [a pull request](https://github.com/skybrush-io/skybrush-server) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Oct 30, 2026
-- 🐛 Opened issue [Virtual UAV stuck in LANDING after a show ends, never flips to LANDED](https://github.com/skybrush-io/skybrush-server/issues/45) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Oct 30, 2026
-- 🍴 Forked [`enonymous1/skybrush-server`](https://github.com/enonymous1/skybrush-server) — Oct 30, 2026
+- 📦 Pushed to [`enonymous1/android-receipt-folder`](https://github.com/enonymous1/android-receipt-folder) on `main` — Oct 30, 2026
+- 📦 Pushed to [`enonymous1/iOS-barcode-wizard`](https://github.com/enonymous1/iOS-barcode-wizard) on `main` — Oct 30, 2026
+- 📦 Pushed to [`enonymous1/roblox-avatar-viewer`](https://github.com/enonymous1/roblox-avatar-viewer) on `main` — Oct 30, 2026
+- 🌱 Created branch `main` in [`enonymous1/roblox-avatar-viewer`](https://github.com/enonymous1/roblox-avatar-viewer) — Oct 30, 2026
+- 📦 Pushed to [`enonymous1/Wyze_Video_Joiner`](https://github.com/enonymous1/Wyze_Video_Joiner) on `main` — Oct 30, 2026
 <!--END_SECTION:activity-->
 
 ---
