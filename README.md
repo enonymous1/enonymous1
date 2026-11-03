@@ -87,25 +87,25 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 02, 2026: **83 public repos counted** (2 forks excluded) · **9,417,989 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 03, 2026: **85 public repos counted** (2 forks excluded) · **9,630,117 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▅▆▇▅▁▁
-Oct 04 - Nov 02, 2026 · 206 public events · busiest day Oct 26 (46)
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▅▆▇▆▆▁▁
+Oct 05 - Nov 03, 2026 · 246 public events · busiest day Oct 26 (46)
 ```
 
 #### Top languages
 
 ```
-Python      ██████████           52.0%  4,894,229 bytes · 43 repos
-JavaScript  ██████               28.1%  2,649,528 bytes · 22 repos
-Kotlin      █                     5.9%  554,218 bytes · 14 repos
-HTML        █                     4.3%  408,480 bytes · 28 repos
+Python      ██████████           51.4%  4,952,614 bytes · 44 repos
+JavaScript  ██████               27.5%  2,649,528 bytes · 22 repos
+Kotlin      █                     5.8%  554,218 bytes · 14 repos
+HTML        █                     5.6%  535,872 bytes · 30 repos
 PowerShell  █                     2.4%  230,632 bytes · 4 repos
-CSS         █                     1.8%  165,576 bytes · 20 repos
-Swift       █                     1.7%  157,555 bytes · 5 repos
+CSS         █                     1.7%  163,618 bytes · 21 repos
+Swift       █                     1.6%  157,555 bytes · 5 repos
+TypeScript  █                     1.3%  128,206 bytes · 3 repos
 C#          █                     1.3%  124,239 bytes · 3 repos
-TypeScript  █                     1.1%  99,897 bytes · 2 repos
 C++         █                     0.5%  51,111 bytes · 2 repos
 Other       █                     0.9%  82,524 bytes · 11 repos
 ```
@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- 📦 Pushed to [`enonymous1/cs-word-histogram`](https://github.com/enonymous1/cs-word-histogram) on `main` — Oct 31, 2026
-- 📦 Pushed to [`enonymous1/workspace-monitor`](https://github.com/enonymous1/workspace-monitor) on `main` — Oct 31, 2026
-- 📦 Pushed to [`enonymous1/windows-game-of-life`](https://github.com/enonymous1/windows-game-of-life) on `main` — Oct 31, 2026
-- 📦 Pushed to [`enonymous1/gmail-forensic-toolkit`](https://github.com/enonymous1/gmail-forensic-toolkit) on `main` — Oct 31, 2026
-- 📦 Pushed to [`enonymous1/gas-auditor`](https://github.com/enonymous1/gas-auditor) on `main` — Oct 31, 2026
+- 📦 Pushed to [`enonymous1/floorplan-studio`](https://github.com/enonymous1/floorplan-studio) on `main` — Nov 01, 2026
+- 📦 Pushed to [`enonymous1/face-stretch-playground`](https://github.com/enonymous1/face-stretch-playground) on `main` — Nov 01, 2026
+- 📦 Pushed to [`enonymous1/pdf-toolkit`](https://github.com/enonymous1/pdf-toolkit) on `main` — Nov 01, 2026
+- 📦 Pushed to [`enonymous1/tech6-cv-generator`](https://github.com/enonymous1/tech6-cv-generator) on `main` — Nov 01, 2026
+- 📦 Pushed to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Nov 01, 2026
 <!--END_SECTION:activity-->
 
 ---
