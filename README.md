@@ -87,27 +87,27 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 03, 2026: **85 public repos counted** (2 forks excluded) · **9,630,117 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 04, 2026: **86 public repos counted** (2 forks excluded) · **9,893,456 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▅▆▇▆▆▁▁
-Oct 05 - Nov 03, 2026 · 246 public events · busiest day Oct 26 (46)
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▅▆▇▆▇▂▁▁
+Oct 06 - Nov 04, 2026 · 264 public events · busiest day Oct 26 (46)
 ```
 
 #### Top languages
 
 ```
-Python      ██████████           51.4%  4,952,614 bytes · 44 repos
-JavaScript  ██████               27.5%  2,649,528 bytes · 22 repos
-Kotlin      █                     5.8%  554,218 bytes · 14 repos
-HTML        █                     5.6%  535,872 bytes · 30 repos
-PowerShell  █                     2.4%  230,632 bytes · 4 repos
-CSS         █                     1.7%  163,618 bytes · 21 repos
+Python      ██████████           50.5%  5,001,003 bytes · 45 repos
+JavaScript  █████                27.1%  2,682,947 bytes · 24 repos
+HTML        █                     7.2%  707,513 bytes · 31 repos
+Kotlin      █                     5.6%  554,218 bytes · 14 repos
+PowerShell  █                     2.3%  230,632 bytes · 4 repos
+CSS         █                     1.8%  173,508 bytes · 23 repos
 Swift       █                     1.6%  157,555 bytes · 5 repos
 TypeScript  █                     1.3%  128,206 bytes · 3 repos
 C#          █                     1.3%  124,239 bytes · 3 repos
 C++         █                     0.5%  51,111 bytes · 2 repos
-Other       █                     0.9%  82,524 bytes · 11 repos
+Other       █                     0.8%  82,524 bytes · 11 repos
 ```
 <!--END_SECTION:stats-->
 
@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- 📦 Pushed to [`enonymous1/floorplan-studio`](https://github.com/enonymous1/floorplan-studio) on `main` — Nov 01, 2026
-- 📦 Pushed to [`enonymous1/face-stretch-playground`](https://github.com/enonymous1/face-stretch-playground) on `main` — Nov 01, 2026
-- 📦 Pushed to [`enonymous1/pdf-toolkit`](https://github.com/enonymous1/pdf-toolkit) on `main` — Nov 01, 2026
-- 📦 Pushed to [`enonymous1/tech6-cv-generator`](https://github.com/enonymous1/tech6-cv-generator) on `main` — Nov 01, 2026
-- 📦 Pushed to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Nov 01, 2026
+- 📦 Pushed to [`enonymous1/achievement-trackers`](https://github.com/enonymous1/achievement-trackers) on `main` — Nov 03, 2026
+- 📦 Pushed to [`enonymous1/gsa-vendor-toolkit`](https://github.com/enonymous1/gsa-vendor-toolkit) on `main` — Nov 02, 2026
+- 📦 Pushed to [`enonymous1/exchange-mailbox-toolkit`](https://github.com/enonymous1/exchange-mailbox-toolkit) on `main` — Nov 02, 2026
+- 🌱 Created branch `main` in [`enonymous1/usaspending-gas`](https://github.com/enonymous1/usaspending-gas) — Nov 02, 2026
+- 📦 Pushed to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Nov 02, 2026
 <!--END_SECTION:activity-->
 
 ---
