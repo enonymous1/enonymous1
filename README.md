@@ -87,27 +87,27 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 05, 2026: **87 public repos counted** (2 forks excluded) · **10,724,178 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 06, 2026: **90 public repos counted** (2 forks excluded) · **12,051,719 bytes of code** across **17 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▅▆▇▆▇▂▂▁▁
-Oct 07 - Nov 05, 2026 · 271 public events · busiest day Oct 26 (46)
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▅▆▇▆▇▂▂▁▁▁
+Oct 08 - Nov 06, 2026 · 275 public events · busiest day Oct 26 (46)
 ```
 
 #### Top languages
 
 ```
-Python      █████████            46.8%  5,015,847 bytes · 46 repos
-JavaScript  █████                25.3%  2,716,266 bytes · 25 repos
-HTML        ███                  13.8%  1,483,352 bytes · 32 repos
-Kotlin      █                     5.2%  554,218 bytes · 14 repos
-PowerShell  █                     2.2%  230,632 bytes · 4 repos
-CSS         █                     1.7%  180,228 bytes · 24 repos
-Swift       █                     1.5%  157,555 bytes · 5 repos
-TypeScript  █                     1.2%  128,206 bytes · 3 repos
-C#          █                     1.2%  124,239 bytes · 3 repos
-C++         █                     0.5%  51,111 bytes · 2 repos
-Other       █                     0.8%  82,524 bytes · 11 repos
+Python      ██████████           50.6%  6,099,077 bytes · 49 repos
+JavaScript  █████                22.5%  2,716,587 bytes · 25 repos
+HTML        ███                  14.3%  1,723,834 bytes · 34 repos
+Kotlin      █                     4.6%  554,218 bytes · 14 repos
+PowerShell  █                     1.9%  230,632 bytes · 4 repos
+CSS         █                     1.5%  182,091 bytes · 25 repos
+Swift       █                     1.3%  157,555 bytes · 5 repos
+TypeScript  █                     1.1%  128,206 bytes · 3 repos
+C#          █                     1.0%  124,239 bytes · 3 repos
+C++         █                     0.4%  51,111 bytes · 2 repos
+Other       █                     0.7%  84,169 bytes · 12 repos
 ```
 <!--END_SECTION:stats-->
 
@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
+- 📦 Pushed to [`enonymous1/achievement-trackers`](https://github.com/enonymous1/achievement-trackers) on `main` — Nov 05, 2026
+- 🌱 Created branch `main` in [`enonymous1/web-mtg-draft`](https://github.com/enonymous1/web-mtg-draft) — Nov 05, 2026
 - 🌱 Created branch `main` in [`enonymous1/web-conway-game-of-life`](https://github.com/enonymous1/web-conway-game-of-life) — Nov 03, 2026
-- 📦 Pushed to [`enonymous1/achievement-trackers`](https://github.com/enonymous1/achievement-trackers) on `main` — Nov 04, 2026
 - 📦 Pushed to [`enonymous1/workspace-monitor`](https://github.com/enonymous1/workspace-monitor) on `main` — Nov 03, 2026
 - 📦 Pushed to [`enonymous1/gsa-vendor-toolkit`](https://github.com/enonymous1/gsa-vendor-toolkit) on `main` — Nov 02, 2026
-- 📦 Pushed to [`enonymous1/exchange-mailbox-toolkit`](https://github.com/enonymous1/exchange-mailbox-toolkit) on `main` — Nov 02, 2026
 <!--END_SECTION:activity-->
 
 ---
