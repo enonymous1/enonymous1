@@ -87,26 +87,26 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 07, 2026: **93 public repos counted** (2 forks excluded) · **12,894,693 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 08, 2026: **96 public repos counted** (2 forks excluded) · **13,169,315 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▂█▄▅▆▇▆▇▂▂▁▁▃▁
-Oct 09 - Nov 07, 2026 · 288 public events · busiest day Oct 26 (46)
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▂▂█▄▆▆▇▇█▃▂▂▁▄▃▁
+Oct 10 - Nov 08, 2026 · 293 public events · busiest day Oct 26 (41)
 ```
 
 #### Top languages
 
 ```
-Python      ██████████           48.9%  6,303,448 bytes · 50 repos
-JavaScript  ████                 21.8%  2,807,759 bytes · 25 repos
-HTML        ███                  16.1%  2,078,981 bytes · 35 repos
-Kotlin      █                     4.3%  554,218 bytes · 14 repos
+Python      ██████████           47.9%  6,308,262 bytes · 51 repos
+JavaScript  ████                 21.7%  2,862,997 bytes · 26 repos
+HTML        ███                  15.8%  2,086,919 bytes · 37 repos
+Kotlin      █                     4.2%  554,218 bytes · 14 repos
+GDScript    █                     2.2%  288,572 bytes · 3 repos
 PowerShell  █                     1.8%  230,632 bytes · 4 repos
-CSS         █                     1.5%  192,076 bytes · 26 repos
-GDScript    █                     1.2%  158,571 bytes · 2 repos
+TypeScript  █                     1.7%  218,298 bytes · 5 repos
+CSS         █                     1.5%  202,343 bytes · 28 repos
 Swift       █                     1.2%  157,555 bytes · 5 repos
-TypeScript  █                     1.2%  151,934 bytes · 4 repos
-C#          █                     1.0%  124,239 bytes · 3 repos
+C#          █                     0.9%  124,239 bytes · 3 repos
 Other       █                     1.0%  135,280 bytes · 12 repos
 ```
 <!--END_SECTION:stats-->
@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- 📦 Pushed to [`enonymous1/gmail-forensic-toolkit`](https://github.com/enonymous1/gmail-forensic-toolkit) on `main` — Nov 06, 2026
-- 📦 Pushed to [`enonymous1/achievement-trackers`](https://github.com/enonymous1/achievement-trackers) on `main` — Nov 06, 2026
-- 🌱 Created branch `main` in [`enonymous1/product-lookup-poc`](https://github.com/enonymous1/product-lookup-poc) — Nov 06, 2026
-- 🌱 Created branch `main` in [`enonymous1/m365-graph-toolkit`](https://github.com/enonymous1/m365-graph-toolkit) — Nov 06, 2026
-- 📦 Pushed to [`enonymous1/workspace-monitor`](https://github.com/enonymous1/workspace-monitor) on `main` — Nov 06, 2026
+- 📦 Pushed to [`enonymous1/web-typing-trainer`](https://github.com/enonymous1/web-typing-trainer) on `main` — Nov 07, 2026
+- 📦 Pushed to [`enonymous1/web-privacy-export-viewer`](https://github.com/enonymous1/web-privacy-export-viewer) on `main` — Nov 07, 2026
+- 🌱 Created branch `main` in [`enonymous1/godot-fantasy-rts`](https://github.com/enonymous1/godot-fantasy-rts) — Nov 07, 2026
+- 📦 Pushed to [`enonymous1/godot-mtg-draft`](https://github.com/enonymous1/godot-mtg-draft) on `main` — Nov 07, 2026
+- 📦 Pushed to [`enonymous1/web-mtg-draft`](https://github.com/enonymous1/web-mtg-draft) on `main` — Nov 07, 2026
 <!--END_SECTION:activity-->
 
 ---
