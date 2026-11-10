@@ -87,22 +87,22 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 09, 2026: **96 public repos counted** (2 forks excluded) · **13,169,315 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 10, 2026: **96 public repos counted** (2 forks excluded) · **13,179,521 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▁▁▁▁▁▂▂▇▄▆▇█▇█▃▂▂▁▄▅▁▁
-Oct 11 - Nov 09, 2026 · 293 public events · busiest day Nov 01 (39)
+▁▁▁▁▁▁▁▁▁▁▁▁▂▂▆▄▆▇█▇█▃▂▂▁▄▅▂▁▁
+Oct 12 - Nov 10, 2026 · 293 public events · busiest day Nov 01 (39)
 ```
 
 #### Top languages
 
 ```
-Python      ██████████           47.9%  6,308,262 bytes · 51 repos
+Python      ██████████           47.9%  6,318,468 bytes · 51 repos
 JavaScript  ████                 21.7%  2,862,997 bytes · 26 repos
 HTML        ███                  15.8%  2,086,919 bytes · 37 repos
 Kotlin      █                     4.2%  554,218 bytes · 14 repos
 GDScript    █                     2.2%  288,572 bytes · 3 repos
-PowerShell  █                     1.8%  230,632 bytes · 4 repos
+PowerShell  █                     1.7%  230,632 bytes · 4 repos
 TypeScript  █                     1.7%  218,298 bytes · 5 repos
 CSS         █                     1.5%  202,343 bytes · 28 repos
 Swift       █                     1.2%  157,555 bytes · 5 repos
