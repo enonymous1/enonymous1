@@ -87,11 +87,11 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 11, 2026: **96 public repos counted** (2 forks excluded) · **13,249,688 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 12, 2026: **96 public repos counted** (2 forks excluded) · **13,249,688 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▁▁▁▂▂▆▄▆▇█▇█▃▂▂▁▄▅▂▁▁▁
-Oct 13 - Nov 11, 2026 · 293 public events · busiest day Nov 01 (39)
+▁▁▁▁▁▁▁▁▁▁▂▂▅▄▆▇█▇█▃▂▂▁▄▅▂▁▂▂▁
+Oct 14 - Nov 12, 2026 · 295 public events · busiest day Nov 01 (39)
 ```
 
 #### Top languages
@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- 📦 Pushed to [`enonymous1/voice-generator`](https://github.com/enonymous1/voice-generator) on `main` — Nov 10, 2026
+- 🐛 Opened issue [Make the UAV-INF rate limiter delay configurable (smoother telemetry for virtual/demo fleets)](https://github.com/skybrush-io/skybrush-server/issues/51) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Nov 12, 2026
+- 📦 Pushed to [`enonymous1/voice-generator`](https://github.com/enonymous1/voice-generator) on `main` — Nov 11, 2026
+- 📦 Pushed to [`enonymous1/achievement-trackers`](https://github.com/enonymous1/achievement-trackers) on `main` — Nov 11, 2026
+- 🐛 Opened issue [Crash (NotFoundError: removeChild) when toggling dockable panels (Show control, Clocks)](https://github.com/skybrush-io/live/issues/260) in [`skybrush-io/live`](https://github.com/skybrush-io/live) — Nov 11, 2026
 - 📦 Pushed to [`enonymous1/gmail-sender-insights`](https://github.com/enonymous1/gmail-sender-insights) on `main` — Nov 07, 2026
-- 📦 Pushed to [`enonymous1/godot-fantasy-rts`](https://github.com/enonymous1/godot-fantasy-rts) on `main` — Nov 07, 2026
-- 📦 Pushed to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Nov 07, 2026
-- 📦 Pushed to [`enonymous1/achievement-trackers`](https://github.com/enonymous1/achievement-trackers) on `main` — Nov 07, 2026
 <!--END_SECTION:activity-->
 
 ---
