@@ -87,27 +87,27 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 12, 2026: **96 public repos counted** (2 forks excluded) · **13,249,688 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 13, 2026: **97 public repos counted** (3 forks excluded) · **15,658,235 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▁▁▂▂▅▄▆▇█▇█▃▂▂▁▄▅▂▁▂▂▁
-Oct 14 - Nov 12, 2026 · 295 public events · busiest day Nov 01 (39)
+▁▁▁▁▁▁▁▁▁▁▂▅▄▆▇█▇█▃▂▂▁▄▅▂▁▂▂▃▁
+Oct 15 - Nov 13, 2026 · 300 public events · busiest day Nov 01 (39)
 ```
 
 #### Top languages
 
 ```
-Python      ██████████           47.9%  6,345,391 bytes · 51 repos
-JavaScript  ████                 21.6%  2,862,997 bytes · 26 repos
-HTML        ███                  16.0%  2,126,058 bytes · 38 repos
-Kotlin      █                     4.2%  554,218 bytes · 14 repos
-GDScript    █                     2.2%  288,572 bytes · 3 repos
-PowerShell  █                     1.7%  230,632 bytes · 4 repos
-TypeScript  █                     1.6%  218,298 bytes · 5 repos
-CSS         █                     1.6%  206,448 bytes · 29 repos
-Swift       █                     1.2%  157,555 bytes · 5 repos
-C#          █                     0.9%  124,239 bytes · 3 repos
-Other       █                     1.0%  135,280 bytes · 12 repos
+Python      ████████             41.4%  6,482,461 bytes · 52 repos
+HTML        ██████               27.9%  4,366,681 bytes · 39 repos
+JavaScript  ████                 18.4%  2,873,928 bytes · 27 repos
+Kotlin      █                     3.5%  554,218 bytes · 14 repos
+GDScript    █                     1.8%  288,572 bytes · 3 repos
+PowerShell  █                     1.5%  230,632 bytes · 4 repos
+CSS         █                     1.4%  226,371 bytes · 29 repos
+TypeScript  █                     1.4%  218,298 bytes · 5 repos
+Swift       █                     1.0%  157,555 bytes · 5 repos
+C#          █                     0.8%  124,239 bytes · 3 repos
+Other       █                     0.9%  135,280 bytes · 12 repos
 ```
 <!--END_SECTION:stats-->
 
@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- 🐛 Opened issue [Make the UAV-INF rate limiter delay configurable (smoother telemetry for virtual/demo fleets)](https://github.com/skybrush-io/skybrush-server/issues/51) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Nov 12, 2026
-- 📦 Pushed to [`enonymous1/voice-generator`](https://github.com/enonymous1/voice-generator) on `main` — Nov 11, 2026
-- 📦 Pushed to [`enonymous1/achievement-trackers`](https://github.com/enonymous1/achievement-trackers) on `main` — Nov 11, 2026
-- 🐛 Opened issue [Crash (NotFoundError: removeChild) when toggling dockable panels (Show control, Clocks)](https://github.com/skybrush-io/live/issues/260) in [`skybrush-io/live`](https://github.com/skybrush-io/live) — Nov 11, 2026
-- 📦 Pushed to [`enonymous1/gmail-sender-insights`](https://github.com/enonymous1/gmail-sender-insights) on `main` — Nov 07, 2026
+- 🔀 Merged PR [a pull request](https://github.com/skybrush-io/live) in [`skybrush-io/live`](https://github.com/skybrush-io/live) — Nov 13, 2026
+- 🔀 Merged PR [a pull request](https://github.com/skybrush-io/skybrush-server) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Nov 13, 2026
+- 🔀 Opened PR [a pull request](https://github.com/skybrush-io/live) in [`skybrush-io/live`](https://github.com/skybrush-io/live) — Nov 12, 2026
+- 🍴 Forked [`enonymous1/live`](https://github.com/enonymous1/live) — Nov 12, 2026
+- 💬 Commented on [Opening a panel while a view is maximized leaves the new panel empty until restore](https://github.com/skybrush-io/live/issues/261#issuecomment-6837258998) in [`skybrush-io/live`](https://github.com/skybrush-io/live) — Nov 12, 2026
 <!--END_SECTION:activity-->
 
 ---
