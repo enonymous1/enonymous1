@@ -87,19 +87,19 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 13, 2026: **97 public repos counted** (3 forks excluded) · **15,658,235 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 14, 2026: **98 public repos counted** (3 forks excluded) · **15,737,906 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▁▁▂▅▄▆▇█▇█▃▂▂▁▄▅▂▁▂▂▃▁
-Oct 15 - Nov 13, 2026 · 300 public events · busiest day Nov 01 (39)
+▁▁▁▁▁▁▁▁▁▁▅▄▆▇█▇█▃▂▂▁▄▅▂▁▂▂▃▁▁
+Oct 16 - Nov 14, 2026 · 300 public events · busiest day Nov 01 (39)
 ```
 
 #### Top languages
 
 ```
-Python      ████████             41.4%  6,482,461 bytes · 52 repos
-HTML        ██████               27.9%  4,366,681 bytes · 39 repos
-JavaScript  ████                 18.4%  2,873,928 bytes · 27 repos
+Python      ████████             41.2%  6,482,461 bytes · 52 repos
+HTML        ██████               28.2%  4,435,507 bytes · 40 repos
+JavaScript  ████                 18.3%  2,884,773 bytes · 28 repos
 Kotlin      █                     3.5%  554,218 bytes · 14 repos
 GDScript    █                     1.8%  288,572 bytes · 3 repos
 PowerShell  █                     1.5%  230,632 bytes · 4 repos
@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
+- 📦 Pushed to [`enonymous1/skybrush-server`](https://github.com/enonymous1/skybrush-server) on `main` — Nov 12, 2026
+- 📦 Pushed to [`enonymous1/voice-generator`](https://github.com/enonymous1/voice-generator) on `main` — Nov 12, 2026
 - 🔀 Merged PR [a pull request](https://github.com/skybrush-io/live) in [`skybrush-io/live`](https://github.com/skybrush-io/live) — Nov 13, 2026
 - 🔀 Merged PR [a pull request](https://github.com/skybrush-io/skybrush-server) in [`skybrush-io/skybrush-server`](https://github.com/skybrush-io/skybrush-server) — Nov 13, 2026
 - 🔀 Opened PR [a pull request](https://github.com/skybrush-io/live) in [`skybrush-io/live`](https://github.com/skybrush-io/live) — Nov 12, 2026
-- 🍴 Forked [`enonymous1/live`](https://github.com/enonymous1/live) — Nov 12, 2026
-- 💬 Commented on [Opening a panel while a view is maximized leaves the new panel empty until restore](https://github.com/skybrush-io/live/issues/261#issuecomment-6837258998) in [`skybrush-io/live`](https://github.com/skybrush-io/live) — Nov 12, 2026
 <!--END_SECTION:activity-->
 
 ---
