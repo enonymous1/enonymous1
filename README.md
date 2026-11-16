@@ -87,19 +87,19 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 15, 2026: **98 public repos counted** (3 forks excluded) · **15,765,582 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 16, 2026: **98 public repos counted** (3 forks excluded) · **15,797,335 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▁▄▄▆▇█▇█▃▂▂▁▄▅▂▁▂▂▄▂▁▁
-Oct 17 - Nov 15, 2026 · 300 public events · busiest day Nov 01 (39)
+▁▁▁▁▁▁▁▁▃▄▆▇█▇█▃▂▂▁▄▅▂▁▂▂▄▂▂▁▁
+Oct 18 - Nov 16, 2026 · 300 public events · busiest day Nov 01 (39)
 ```
 
 #### Top languages
 
 ```
-Python      ████████             41.1%  6,482,461 bytes · 52 repos
-HTML        ██████               28.2%  4,449,444 bytes · 40 repos
-JavaScript  ████                 18.4%  2,898,512 bytes · 28 repos
+Python      ████████             41.0%  6,482,461 bytes · 52 repos
+HTML        ██████               28.3%  4,469,575 bytes · 40 repos
+JavaScript  ████                 18.4%  2,910,134 bytes · 28 repos
 Kotlin      █                     3.5%  554,218 bytes · 14 repos
 GDScript    █                     1.8%  288,572 bytes · 3 repos
 PowerShell  █                     1.5%  230,632 bytes · 4 repos
@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
+- 🌱 Created branch `main` in [`enonymous1/gmail-filter-builder`](https://github.com/enonymous1/gmail-filter-builder) — Nov 14, 2026
+- 📦 Pushed to [`enonymous1/gmail-filter-builder`](https://github.com/enonymous1/gmail-filter-builder) on `main` — Nov 14, 2026
 - 🌱 Created branch `main` in [`enonymous1/whenwhere-drone-light-shows`](https://github.com/enonymous1/whenwhere-drone-light-shows) — Nov 13, 2026
 - 📦 Pushed to [`enonymous1/voice-generator`](https://github.com/enonymous1/voice-generator) on `main` — Nov 12, 2026
 - 🌱 Created branch `fix/restore-maximized-view-before-adding-panel` in [`enonymous1/live`](https://github.com/enonymous1/live) — Nov 12, 2026
-- 📦 Pushed to [`enonymous1/skybrush-server`](https://github.com/enonymous1/skybrush-server) on `configurable-message-rate-limits` — Nov 12, 2026
-- 📦 Pushed to [`enonymous1/gmail-filter-builder`](https://github.com/enonymous1/gmail-filter-builder) on `main` — Nov 14, 2026
 <!--END_SECTION:activity-->
 
 ---
