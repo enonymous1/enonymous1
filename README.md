@@ -87,27 +87,27 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 16, 2026: **98 public repos counted** (3 forks excluded) · **15,797,335 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 17, 2026: **99 public repos counted** (3 forks excluded) · **20,196,143 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▁▁▁▃▄▆▇█▇█▃▂▂▁▄▅▂▁▂▂▄▂▂▁▁
-Oct 18 - Nov 16, 2026 · 300 public events · busiest day Nov 01 (39)
+▁▁▁▁▁▁▁▃▄▆▇█▇█▃▂▂▁▄▅▂▁▂▂▄▂▂▁▁▁
+Oct 19 - Nov 17, 2026 · 300 public events · busiest day Nov 01 (39)
 ```
 
 #### Top languages
 
 ```
-Python      ████████             41.0%  6,482,461 bytes · 52 repos
-HTML        ██████               28.3%  4,469,575 bytes · 40 repos
-JavaScript  ████                 18.4%  2,910,134 bytes · 28 repos
-Kotlin      █                     3.5%  554,218 bytes · 14 repos
-GDScript    █                     1.8%  288,572 bytes · 3 repos
-PowerShell  █                     1.5%  230,632 bytes · 4 repos
-CSS         █                     1.4%  226,371 bytes · 29 repos
-TypeScript  █                     1.4%  218,298 bytes · 5 repos
-Swift       █                     1.0%  157,555 bytes · 5 repos
-C#          █                     0.8%  124,239 bytes · 3 repos
-Other       █                     0.9%  135,280 bytes · 12 repos
+HTML        █████████            43.8%  8,837,003 bytes · 41 repos
+Python      ██████               32.1%  6,482,461 bytes · 52 repos
+JavaScript  ███                  14.6%  2,941,514 bytes · 28 repos
+Kotlin      █                     2.7%  554,218 bytes · 14 repos
+GDScript    █                     1.4%  288,572 bytes · 3 repos
+PowerShell  █                     1.1%  230,632 bytes · 4 repos
+CSS         █                     1.1%  226,371 bytes · 29 repos
+TypeScript  █                     1.1%  218,298 bytes · 5 repos
+Swift       █                     0.8%  157,555 bytes · 5 repos
+C#          █                     0.6%  124,239 bytes · 3 repos
+Other       █                     0.7%  135,280 bytes · 12 repos
 ```
 <!--END_SECTION:stats-->
 
@@ -124,8 +124,8 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
+- 📦 Pushed to [`enonymous1/gmail-filter-builder`](https://github.com/enonymous1/gmail-filter-builder) on `main` — Nov 17, 2026
 - 🌱 Created branch `main` in [`enonymous1/gmail-filter-builder`](https://github.com/enonymous1/gmail-filter-builder) — Nov 14, 2026
-- 📦 Pushed to [`enonymous1/gmail-filter-builder`](https://github.com/enonymous1/gmail-filter-builder) on `main` — Nov 14, 2026
 - 🌱 Created branch `main` in [`enonymous1/whenwhere-drone-light-shows`](https://github.com/enonymous1/whenwhere-drone-light-shows) — Nov 13, 2026
 - 📦 Pushed to [`enonymous1/voice-generator`](https://github.com/enonymous1/voice-generator) on `main` — Nov 12, 2026
 - 🌱 Created branch `fix/restore-maximized-view-before-adding-panel` in [`enonymous1/live`](https://github.com/enonymous1/live) — Nov 12, 2026
