@@ -87,19 +87,19 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 19, 2026: **99 public repos counted** (3 forks excluded) · **13,906,113 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 20, 2026: **99 public repos counted** (3 forks excluded) · **13,944,047 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▁▂▂▆▇█▇█▃▂▂▁▄▅▂▁▂▂▄▂▂▁▂▃▂▁
-Oct 21 - Nov 19, 2026 · 300 public events · busiest day Nov 01 (39)
+▁▁▁▁▂▁▆▇█▇█▃▂▂▁▄▅▂▁▂▂▄▂▂▁▂▃▃▁▁
+Oct 22 - Nov 20, 2026 · 300 public events · busiest day Nov 01 (39)
 ```
 
 #### Top languages
 
 ```
-Python      █████████            46.6%  6,484,794 bytes · 52 repos
-JavaScript  ████                 21.5%  2,995,438 bytes · 28 repos
-HTML        ████                 17.9%  2,490,716 bytes · 41 repos
+Python      █████████            46.5%  6,487,662 bytes · 52 repos
+JavaScript  ████                 21.6%  3,012,512 bytes · 28 repos
+HTML        ████                 18.0%  2,508,708 bytes · 41 repos
 Kotlin      █                     4.0%  554,218 bytes · 14 repos
 GDScript    █                     2.1%  288,572 bytes · 3 repos
 PowerShell  █                     1.7%  230,632 bytes · 4 repos
@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
+- 🚀 Released [`v.1.4.8`](https://github.com/enonymous1/whenwhere-drone-light-shows/releases/tag/v.1.4.8) in [`enonymous1/whenwhere-drone-light-shows`](https://github.com/enonymous1/whenwhere-drone-light-shows) — Nov 20, 2026
+- 📦 Pushed to [`enonymous1/voice-generator`](https://github.com/enonymous1/voice-generator) on `main` — Nov 18, 2026
 - 📦 Pushed to [`enonymous1/whenwhere-drone-light-shows`](https://github.com/enonymous1/whenwhere-drone-light-shows) on `main` — Nov 18, 2026
 - 📦 Pushed to [`enonymous1/whenwhere-biz-main-site`](https://github.com/enonymous1/whenwhere-biz-main-site) on `main` — Nov 18, 2026
 - 📦 Pushed to [`enonymous1/gmail-filter-builder`](https://github.com/enonymous1/gmail-filter-builder) on `main` — Nov 17, 2026
-- 🌱 Created branch `main` in [`enonymous1/whenwhere-biz-main-site`](https://github.com/enonymous1/whenwhere-biz-main-site) — Nov 16, 2026
-- 🌱 Created branch `main` in [`enonymous1/gmail-filter-builder`](https://github.com/enonymous1/gmail-filter-builder) — Nov 14, 2026
 <!--END_SECTION:activity-->
 
 ---
