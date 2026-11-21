@@ -87,23 +87,23 @@ More, in the same spirit: **[photo-stitcher](https://github.com/enonymous1/photo
 
 
 <!--START_SECTION:stats-->
-As of Nov 20, 2026: **99 public repos counted** (3 forks excluded) · **13,944,047 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
+As of Nov 21, 2026: **99 public repos counted** (3 forks excluded) · **13,970,820 bytes of code** across **18 languages**. Shares below are share of code by bytes — not share of repos.
 
 ```
-▁▁▁▁▂▁▆▇█▇█▃▂▂▁▄▅▂▁▂▂▄▂▂▁▂▃▃▁▁
-Oct 22 - Nov 20, 2026 · 300 public events · busiest day Nov 01 (39)
+▁▁▁▂▁▄▇█▇█▃▂▂▁▄▅▂▁▂▂▄▂▂▁▂▃▃▂▂▂
+Oct 23 - Nov 21, 2026 · 300 public events · busiest day Nov 01 (39)
 ```
 
 #### Top languages
 
 ```
-Python      █████████            46.5%  6,487,662 bytes · 52 repos
-JavaScript  ████                 21.6%  3,012,512 bytes · 28 repos
-HTML        ████                 18.0%  2,508,708 bytes · 41 repos
+Python      █████████            46.5%  6,492,947 bytes · 52 repos
+JavaScript  ████                 21.6%  3,017,672 bytes · 28 repos
+HTML        ████                 18.1%  2,524,415 bytes · 41 repos
 Kotlin      █                     4.0%  554,218 bytes · 14 repos
 GDScript    █                     2.1%  288,572 bytes · 3 repos
 PowerShell  █                     1.7%  230,632 bytes · 4 repos
-CSS         █                     1.6%  226,371 bytes · 29 repos
+CSS         █                     1.6%  226,992 bytes · 29 repos
 TypeScript  █                     1.6%  218,298 bytes · 5 repos
 Swift       █                     1.1%  157,555 bytes · 5 repos
 C#          █                     0.9%  124,239 bytes · 3 repos
@@ -124,11 +124,11 @@ Beyond code, I maintain a home server environment running **Unraid** and **Docke
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
+- 📦 Pushed to [`enonymous1/jpl-dev`](https://github.com/enonymous1/jpl-dev) on `main` — Nov 21, 2026
+- 📦 Pushed to [`enonymous1/whenwhere-drone-light-shows`](https://github.com/enonymous1/whenwhere-drone-light-shows) on `main` — Nov 21, 2026
+- 📦 Pushed to [`enonymous1/voice-generator`](https://github.com/enonymous1/voice-generator) on `main` — Nov 19, 2026
+- 📦 Pushed to [`enonymous1/whenwhere-biz-main-site`](https://github.com/enonymous1/whenwhere-biz-main-site) on `main` — Nov 21, 2026
 - 🚀 Released [`v.1.4.8`](https://github.com/enonymous1/whenwhere-drone-light-shows/releases/tag/v.1.4.8) in [`enonymous1/whenwhere-drone-light-shows`](https://github.com/enonymous1/whenwhere-drone-light-shows) — Nov 20, 2026
-- 📦 Pushed to [`enonymous1/voice-generator`](https://github.com/enonymous1/voice-generator) on `main` — Nov 18, 2026
-- 📦 Pushed to [`enonymous1/whenwhere-drone-light-shows`](https://github.com/enonymous1/whenwhere-drone-light-shows) on `main` — Nov 18, 2026
-- 📦 Pushed to [`enonymous1/whenwhere-biz-main-site`](https://github.com/enonymous1/whenwhere-biz-main-site) on `main` — Nov 18, 2026
-- 📦 Pushed to [`enonymous1/gmail-filter-builder`](https://github.com/enonymous1/gmail-filter-builder) on `main` — Nov 17, 2026
 <!--END_SECTION:activity-->
 
 ---
